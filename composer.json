@@ -1,0 +1,16 @@
+{
+    "name": "cepfie/namespace-psr4",
+    "description": "Belajar Konsep PSR-4 Autoloading",
+    "authors": [
+        {
+            "name": "cecep29",
+            "email": "cecepefendi.c2p@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
