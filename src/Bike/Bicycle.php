@@ -2,8 +2,6 @@
 
 namespace App\Bike;
 
-use App\Bike\Bike;
-
 class Bicycle extends Bike 
 {
     public function ride()

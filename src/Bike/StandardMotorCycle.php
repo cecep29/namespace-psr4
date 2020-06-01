@@ -2,7 +2,6 @@
 
 namespace App\Bike;
 
-use App\Bike\Bike;
 use App\Engine\MotorCycleEngine;
 
 class StandardMotorCycle extends Bike 

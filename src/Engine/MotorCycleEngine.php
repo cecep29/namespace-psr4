@@ -2,8 +2,6 @@
 
 namespace App\Engine;
 
-use App\Engine\EngineInterface;
-
 class MotorCycleEngine implements EngineInterface
 {
     public function start()

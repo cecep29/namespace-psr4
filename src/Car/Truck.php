@@ -2,7 +2,6 @@
 
 namespace App\Car;
 
-use App\Car\Car;
 use App\Engine\CarEngine;
 
 class Truck extends Car 
